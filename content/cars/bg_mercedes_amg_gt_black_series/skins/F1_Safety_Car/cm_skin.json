@@ -1,0 +1,96 @@
+{
+  "01Carpaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FFF0EEE8",
+    "flakes": 1.0,
+    "enabled": true
+  },
+  "02Rim": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF111111",
+    "flakes": 1.0,
+    "enabled": true
+  },
+  "03Caliper": {
+    "enabled": true,
+    "colors": [
+      "#0A0A0A"
+    ]
+  },
+  "04Leather1": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "05AlcantaraStwheel": {
+    "enabled": true,
+    "colors": [
+      "#3D3D3D"
+    ]
+  },
+  "06Alcantara": {
+    "enabled": true,
+    "colors": [
+      "#3D3D3D"
+    ]
+  },
+  "07SeatStripes": {
+    "enabled": true,
+    "colors": [
+      "#0FD8E2"
+    ]
+  },
+  "08Stiching": {
+    "enabled": true,
+    "colors": [
+      "#0FD8E2"
+    ]
+  },
+  "09StichingStwheel": {
+    "enabled": true,
+    "colors": [
+      "#0FD8E2"
+    ]
+  },
+  "10DoorDots": {
+    "enabled": true,
+    "colors": [
+      "#0FD8E2"
+    ]
+  },
+  "11Seatbelt": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "12Carpet": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "13Carbon": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "14Windowtint": {
+    "alpha": 0.0,
+    "enabled": false,
+    "colors": [
+      "#293437"
+    ]
+  },
+  "15Plate": {
+    "style": "Europe"
+  }
+}

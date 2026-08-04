@@ -1,0 +1,138 @@
+{
+  "bg_mercedes_amg_gt_black_series": [
+   { 
+  "type": "carPaint", 
+  "name": "01. Carpaint",
+  "texture": "metal_detail_1.dds", 
+  "mapsTexture": "skin_map.dds", 
+  "mapsAutoLevel": true, 
+  "defaultColor": "#FFFFFF" 
+},
+
+{ 
+  "type": "carPaint",
+  "name": "02. Rim",
+  "texture": "metal_detail_rim.dds",
+  "mapsTexture": "rims_map.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "03. Caliper",
+  "texture": "metal_detail_caliper.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "04. Leather 1",
+  "texture": "leather_1.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "05. Alcantara STWheel",
+  "texture": "leather_2.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "06. Alcantara",
+  "texture": "leather_3.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "07. Seat stripes",
+  "texture": "leather_4.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "08. Stiching",
+  "texture": "stich.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "09. Stiching Stwheel",
+  "texture": "stich_2.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "10. Door dots",
+  "texture": "Door_Dots.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "11. Seatbelt",
+  "texture": "Cockpit_Belt.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "12. Carpet",
+  "texture": "Carpet.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{ 
+  "type": "color",
+  "name": "13. Carbon",
+  "texture": "carbon.dds",
+  "autoLevel": true,
+  "defaultColor": "#FFFFFF"
+},
+
+{
+  "type": "tintedWindow",
+  "name": "14. WindowTint",
+  "texture": "glass_clear_0_black.dds",
+  "defaultOpacity": 0.0, 
+  "fixedColor": false
+},
+
+{ 
+  "type": "licensePlate",
+  "name": "15. Plate Front", 
+  "style": "Europe", 
+  "texture": "Plate_F.dds",
+  "normals": "Plate_F_NM.dds"
+},
+
+{ 
+  "type": "licensePlate",
+  "name": "16. Plate Rear", 
+  "style": "Europe", 
+  "texture": "Plate_D.dds",
+  "normals": "Plate_NM.dds"
+},
+
+  ],
+}
+
+
+
+
