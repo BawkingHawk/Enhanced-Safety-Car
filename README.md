@@ -12,7 +12,6 @@ Built on the *Safety Car - FCY - Yellow Flag - Rolling Start* app by **Nary**, w
 - **A formation lap that feels real.** The AI field warms tires with natural side-to-side weaving, eases off for corners, holds proper spacing in the train, and forms up cleanly before a rolling green flag.
 - **Good manners built in.** The field remembers the starting order: anyone who gains a spot by accident gives it back, stragglers catch up progressively, and nobody wipes out doing it.
 - **An audio spotter keeps you honest.** Fall too far back or get ahead of your grid slot and the app tells you, then confirms once you've fixed it. Stay in position and it stays quiet.
-- **Live tuning.** A Tuning tab in the app window lets you adjust the weaving, spacing, and catch-up behaviour on the fly, and remembers your settings.
 - **Race control.** Full Course Yellow and yellow-flag cautions with mid-race safety car deployments, optional penalties for jumping the start, and a diagnostic log if you ever want to know what happened behind the scenes.
 - **Everything included.** The safety car, its F1-style livery, and the flashing light setup ship in this package. Nothing extra to download.
 
