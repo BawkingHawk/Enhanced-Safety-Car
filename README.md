@@ -54,5 +54,3 @@ Built on the *Safety Car - FCY - Yellow Flag - Rolling Start* app by **Nary**, w
 - **Credits must stay intact.** If you share, mirror, or modify this package, keep the credits table above unchanged and visible.
 - **No affiliation.** This project is not affiliated with, endorsed by, or sponsored by Mercedes-Benz AG, the FIA, Formula 1, Kunos Simulazioni, or any of the credited creators. All trademarks and brand names belong to their respective owners and appear only for descriptive purposes.
 - **No warranty.** Provided as-is, without warranty of any kind. Use at your own risk.
-
-> **Note before redistributing:** this package contains the full car by B. Gili (MNBA Modding Group) and the safety car addon by Schwepsou, not just a config tweak, on top of Nary's app. Before uploading it anywhere public, ask Nary (app), MNBA (car) and Schwepsou (addon) for permission to redistribute.
