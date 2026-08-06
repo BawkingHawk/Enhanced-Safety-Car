@@ -2,8 +2,6 @@
 
 **v1.0** for Assetto Corsa (offline races) with Custom Shaders Patch
 
-Assetto Corsa never shipped real rolling starts. Races just launch from a frozen grid, and mods that add a safety car usually feel robotic: the field trails behind in a dead-straight line, nobody warms their tires, and one mistake scatters the pack. **Enhanced Safety Car** turns the pre-race moments into the part of the show they're supposed to be: a safety car pulls away, the field snakes and weaves behind it like a real grid keeping heat in the rubber, stragglers hurry back into formation, and the whole train packs up tight before surging across the line at the green. Add the included Mercedes-AMG safety car to your grid, and everything else takes care of itself, on any track, with zero setup.
-
 Built on the *Safety Car - FCY - Yellow Flag - Rolling Start* app by **Nary**, with a heavily reworked AI behaviour layer, fully automatic safety car placement, and an audio spotter that keeps you in position.
 
 ---
